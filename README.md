@@ -75,5 +75,6 @@ Explore my other projects:
 - Unsupervised ML
 - Deep Learning
 - NLP
+- Model Evalution & optimization
 - Tableau
 
