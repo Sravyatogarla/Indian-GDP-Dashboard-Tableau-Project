@@ -12,11 +12,8 @@ This project visualizes India's Gross Domestic Product (GDP) trends from 2011 to
 | File | Description |
 |------|-------------|
 | `Indian GDP Dashboard.png` | A preview image of the final dashboard layout |
-
 | `india_gdp_dashboard.twbx` | Tableau Packaged Workbook containing the complete interactive dashboard |
-
 | `Quarterly_Estimates_of_GDP.xlsx` | Source dataset from RBI (used in Tableau) |
-
 | `README.md` |  |
 
 
